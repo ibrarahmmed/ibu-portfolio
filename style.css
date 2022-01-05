@@ -1,0 +1,85 @@
+.my-name-color{
+    color: #c02b49;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    color:rgb(255, 169, 45);
+}
+
+.flex-item{
+    display: flex;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 7%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.background-img{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.link_button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient( #c02b49,purple);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.background-img2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right ;
+}
+
+.experiences-header{
+    text-align: center;
+}
+
+.experiences-item{
+   
+   width: 100%;
+   
+   
+}
+
+.experiences-same-item{
+    width: 25%;
+    margin-left: 6%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding-left: 10px;
+
+}
+
+.padding-bottom{
+    padding-bottom: 50px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+}
+
+footer{
+    text-align: center;
+    color: rgba(128, 128, 128, 0.774);
+}
+
